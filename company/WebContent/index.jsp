@@ -71,7 +71,7 @@
 	</head>
 
 	<body>
-		<div><br><image width = 400px height = 150px src = "res/동국대학교로고.png" align = left><br>
+		<div><br><image width = 400px height = 150px src = "res/dgl.png" align = left><br>
 		<h1 align=center>동국대학교 서울캠퍼스 출석 WebSite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1></div>
 	  	<div class="login-page" >
